@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-
+
 🚢 Titanic Exploratory Data Analysis (Task 3)
 This project performs a Mini Exploratory Data Analysis (EDA) on the famous Titanic dataset.
 It focuses on deeper insights, improved data cleaning, and advanced visualizations to understand survival patterns.
