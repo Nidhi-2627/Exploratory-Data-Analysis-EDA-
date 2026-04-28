@@ -58,6 +58,7 @@ It highlights the importance of data cleaning, feature engineering, and visualiz
 📁 Dataset
 Titanic Dataset (Kaggle / Seaborn)
 👨‍💻 Author
-Jaya Jha
+Nidhi kumari
+
 
 ⭐ If you found this useful, consider giving it a star!
